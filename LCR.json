@@ -1,0 +1,9 @@
+{  
+    "inventory": {  
+        "device": "CSR1000v",   
+        "IOS": "16.03.09",   
+        "ROM": "IOS-XE ROMMON",
+        "status": "Approved"
+        
+    }  
+}  
