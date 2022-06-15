@@ -11,7 +11,77 @@
          "IOS": "*15.7(3)M4*",   
          "ROM": "IOS-XE ROMMON",
          "status": "Approved"
-         }   
-    
-]
+         },   
+         {  
+          "device": "*C9500*",   
+          "IOS": "*17.3.3*",   
+          "ROM": "IOS-XE ROMMON",
+          "status": "Approved"
+          },
+          {  
+           "device": "*ISR43*",   
+           "IOS": "*17.3.3*",   
+           "ROM": "IOS-XE ROMMON",
+           "status": "Approved"
+          },
+          {  
+          "device": "*ISR44*",   
+          "IOS": "*17.3.3*",   
+          "ROM": "IOS-XE ROMMON",
+          "status": "Approved"
+          },
+          {  
+           "device": "*Nexus 5672UP*",   
+           "IOS": "*7.3(7)N1(1b)*",   
+           "ROM": "IOS-XE ROMMON",
+           "status": "Approved"
+           },
+           {  
+            "device": "*WS-C3560CX*",   
+            "IOS": "*15.2(2)E10*",   
+            "ROM": "IOS-XE ROMMON",
+            "status": "Approved"
+            },
+            {  
+             "device": "*WS-3850*",   
+             "IOS": "*16.12.05b*",   
+             "ROM": "IOS-XE ROMMON",
+             "status": "Approved"
+            },
+            {  
+             "device": "*ASR1001*",   
+             "IOS": "*17.3.3*",   
+             "ROM": "IOS-XE ROMMON",
+             "status": "Approved"
+            },
+            {  
+             "device": "*ASR1006*",   
+             "IOS": "*17.3.3*",   
+             "ROM": "IOS-XE ROMMON",
+             "status": "Approved"
+            },
+            {  
+             "device": "*Nexus5548*",   
+             "IOS": "*7.3(7)N1(1b)*",   
+             "ROM": "NXOS ROMMON",
+             "status": "Approved"
+            },
+            {  
+             "device": "*Nexus9000 93180YC*",   
+             "IOS": "*9.3(5)*",   
+             "ROM": "NXOS ROMMON",
+             "status": "Approved"
+            },
+            {  
+             "device": "BIG-IP Virtual Edition",   
+             "IOS": "16.1.2.1**",   
+             "ROM": "",
+             "status": "Approved"
+            },
+            {  
+             "device": "WS-4500*",   
+             "IOS": "03.09.00.E",   
+             "ROM": "",
+             "status": "Approved"
+            }]  
 }  
