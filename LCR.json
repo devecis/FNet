@@ -1,9 +1,17 @@
 {  
-    "inventory": {  
+    "inventory": [
+        {  
         "device": "CSR1000v",   
         "IOS": "16.03.09",   
         "ROM": "IOS-XE ROMMON",
         "status": "Approved"
-        
-    }  
+        },
+        {  
+         "device": "*5915*",   
+         "IOS": "*15.7(3)M4*",   
+         "ROM": "IOS-XE ROMMON",
+         "status": "Approved"
+         }   
+    
+]
 }  
